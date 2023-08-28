@@ -52,6 +52,4 @@ Pokedex app built with Flutter
 - [x] Pokemon Info - Add Base Stats data by [balvinderz](https://github.com/balvinderz)
 - [x] Pokemon Info - Add Evolution data by [balvinderz](https://github.com/balvinderz)
 
-## License
-
-All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
